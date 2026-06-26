@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    align-items: center;
+    gap: 1px;
+}
+
+.image{
+    max-width: 800px;
+    width: ;
+}
+
+.text{
+    flex: 1;
+}
