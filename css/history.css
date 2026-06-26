@@ -1,0 +1,12 @@
+.history-image {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.history-image img {
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
