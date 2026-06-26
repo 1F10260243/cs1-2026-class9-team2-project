@@ -22,10 +22,21 @@ body{
     padding-bottom: 8px;
 }
 
-.about img{
+.about #img1{
     position: absolute;
     left: 0;
     top: 80px;
+    width: 38%;
+    height: auto;
+    vertical-align: top;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.about #img2{
+    position: absolute;
+    left: 0;
+    top: 420px;
     width: 38%;
     height: auto;
     vertical-align: top;
